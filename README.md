@@ -12,9 +12,9 @@ https://nathankay89.github.io/week5pjt/
 
 ## Screenshots 
  
- ![Project overview](./Assets/5ED1F6CC-F532-4F69-B039-D09564481DF4.jpeg)
- ![info demo](./Assets/8080DDFA-A097-43FC-A24E-571FE38A5E1D.jpeg)
- ![clear demo](./Assets/87182825-32C3-4A1E-98DB-E265364ED474.jpeg)
+ ![Project overview](./Assets/img/5ED1F6CC-F532-4F69-B039-D09564481DF4.jpeg)
+ ![info demo](./Assets/img/8080DDFA-A097-43FC-A24E-571FE38A5E1D.jpeg)
+ ![clear demo](./Assets/img/87182825-32C3-4A1E-98DB-E265364ED474.jpeg)
 
 ## Tests completed 
 
