@@ -24,7 +24,7 @@ textarea {
   border-left: 1px solid black;
   padding: 10px;
 }
-
+ 
 .container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
     width: 100%;
     padding-right: var(--bs-gutter-x,.75rem);
@@ -39,6 +39,8 @@ textarea {
 }
 
 /* buttons */
+
+
 .saveBtn {
   border-left: 1px solid rgb(3, 3, 3);
   border-top-right-radius: 15px;
@@ -62,6 +64,7 @@ textarea {
   transition: all 0.2s;
   color: #e92311;
 }
+
 
 /* Schedule area */
 
