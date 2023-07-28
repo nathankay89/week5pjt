@@ -1,0 +1,97 @@
+body {
+  font-family: 'Open Sans', sans-serif;
+  font-size: 16px;
+}
+
+
+.p-5 {
+  padding: 3rem!important;
+  text-align: center;
+  background-color: #152448;
+  color: white;
+}
+
+.notification{
+  text-align: center;
+  color: rgb(125, 9, 9);
+}
+
+textarea {
+  background: transparent;
+  border: none;
+  resize: none;
+  color: #000000;
+  border-left: 1px solid black;
+  padding: 10px;
+}
+
+.container, .container-fluid, .container-lg, .container-md, .container-sm, .container-xl, .container-xxl {
+    width: 100%;
+    padding-right: var(--bs-gutter-x,.75rem);
+    padding-left: var(--bs-gutter-x,.75rem);
+    margin-right: auto;
+    margin-left: auto;
+    border-top: 10px solid black;
+}
+
+.description {
+  white-space: pre-wrap;
+}
+
+/* buttons */
+.saveBtn {
+  border-left: 1px solid rgb(3, 3, 3);
+  border-top-right-radius: 15px;
+  border-bottom-right-radius: 15px;
+  background-color: #152448;
+  color: white;
+}
+
+.saveBtn i:hover {
+  font-size: 30px;
+  transition: all 0.2s ease;
+  color: #0392d4;
+}
+
+.clearBtnContainer{
+  font-size: 19px;
+  
+}
+
+.clearBtnContainer :hover{
+  transition: all 0.2s;
+  color: #e92311;
+}
+
+/* Schedule area */
+
+.time-block {
+  border-radius: 15px;
+}
+
+.row {
+  border-top: 1px solid white;
+}
+
+.hour {
+  background-color: #ffffff;
+  color: #000000;
+  border-top: 1px dashed #000000;
+}
+
+.past {
+  background-color: #d3d3d3;
+  color: white;
+}
+
+.present {
+  background-color: #d79794;
+  color: white;
+}
+
+.future {
+  background-color: #76c476;
+  color: white;
+}
+
+
