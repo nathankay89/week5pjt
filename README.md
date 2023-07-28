@@ -8,6 +8,7 @@ This simple web application will allow you to track your daily events, store the
 
 ## Live demo
 
+https://nathankay89.github.io/week5pjt/
 
 ## Screenshots 
  
