@@ -1,6 +1,6 @@
 # Work Day Scheduler 
 
-Add, store and delete events 
+Add, store and delete events. 
 
 ## Desciption
 
